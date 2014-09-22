@@ -1,0 +1,4 @@
+#!/bin/bash
+
+vim /var/www/index.md
+/var/www/renew.sh
